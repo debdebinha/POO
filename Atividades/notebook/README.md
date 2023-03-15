@@ -4,7 +4,7 @@ ATIVIDADE: Gere uma saída de texto entre aspas duplas, criando uma nova linha e
 
 ### CÓDIGO:
 
-'''
+```
 public class AtividadeTeste //declaração da classe AtividadeTeste
 {//inicio da classe AtividadeTeste
   //declaração do método main, que dá início ao programa
@@ -14,4 +14,4 @@ public class AtividadeTeste //declaração da classe AtividadeTeste
        System.out.println(" \"Texto\" ");
    }//fim do método main
 }//fim da classe AtividadeTeste
-'''
+```
