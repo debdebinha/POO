@@ -2,8 +2,9 @@
 
 ATIVIDADE: Gere uma saída de texto entre aspas duplas, criando uma nova linha e posicionando o cursor na linha abaixo.
 
-CÓDIGO:
+### CÓDIGO:
 
+'''
 public class AtividadeTeste //declaração da classe AtividadeTeste
 {//inicio da classe AtividadeTeste
   //declaração do método main, que dá início ao programa
@@ -13,3 +14,4 @@ public class AtividadeTeste //declaração da classe AtividadeTeste
        System.out.println(" \"Texto\" ");
    }//fim do método main
 }//fim da classe AtividadeTeste
+'''
