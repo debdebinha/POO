@@ -1,6 +1,6 @@
 # Atividade Teste
 
-ATIVIDADE: Gere uma saída de texto entre aspas duplas, criando uma nova linha e posicionando o cursor na linha abaixo.
+-> ATIVIDADE: Gere uma saída de texto entre aspas duplas, criando uma nova linha e posicionando o cursor na linha abaixo.
 
 
 Classe impressão de texto: AtividadeTeste
