@@ -4,13 +4,9 @@
 
 
 Classe impressão de texto: AtividadeTeste
-
 IFPR - Campus Cascavel
-
 Disciplina: Programação Orientada à Objetos
-
 Professor: Nelson Bellincanta
-
 Aluna: Débora Diesel Peres de Almeida 
 
 
