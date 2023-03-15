@@ -7,7 +7,7 @@ ATIVIDADE: Gere uma saída de texto entre aspas duplas, criando uma nova linha e
 ```
 public class AtividadeTeste //declaração da classe AtividadeTeste
 {//inicio da classe AtividadeTeste
-  //declaração do método main, que dá início ao programa
+  //declaração do método main, que dá início ao programa:
    public static void main(String[] args)
    {//inicio do método main
       //impressão da mensagem:
