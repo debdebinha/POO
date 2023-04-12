@@ -5,7 +5,7 @@
 Classe impressão de texto: "Main"  
 IFPR - Campus Cascavel    
 Aluna: Débora Diesel Peres de Almeida       
-Professor: Nelson Bellincanta
+Professor: Nelson Bellincanta                                                                                                                                             
 Disciplina: Programação Orientada a Objetos 
 
 ### Código:
