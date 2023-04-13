@@ -8,7 +8,7 @@ Aluna: Débora Diesel Peres de Almeida
 Professor: Nelson Bellincanta   
 Disciplina: Programação Orientada a Objetos  
 
-### Código:
+### Códigos:
 
 a) Exibir a mensagem “Informe um inteiro: “, deixando o cursor na mesma linha;
 
