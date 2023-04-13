@@ -15,11 +15,11 @@ public class Somandinho{ //criando a classe principal
 
         float add=0; //criando a variavel add do tipo double e dando valor 0
 
-        add = calculo(num1, num2, add); //chamando o método "calculo" e retornando o valor para a variavel "add"
+        add = calc(num1, num2, add); //chamando o método "calculo" e retornando o valor para a variavel "add"
 
         System.out.printf("%n%.2f + %.2f = %.2f", num1, num2, add); //Print do valor final
     }
-    public static float calculo(float num1, float num2, float add){ //criando um metodo que retorna valor double
+    public static float calc(float num1, float num2, float add){ //criando um metodo que retorna valor double
         
         add = num1 + num2; //calculo da soma
         return add; //retorna o resultado de add
