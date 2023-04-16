@@ -13,7 +13,7 @@ Disciplina: Programação Orientada a Objetos
 a) Exibir a mensagem “Informe um inteiro: “, deixando o cursor na mesma linha;
 
 ```
-System.out.print("Informe um Inteiro: ");
+System.out.print("Informe um Inteiro: ");//Print exibindo a mensagem "Informe um número Inteiro"
 ```
 
 b) Atribuir o produto de variáveis b e c para a variável a;
@@ -33,13 +33,12 @@ System.out.printf("%d * %d = %d", b, c, a); //Print dos valores
 c) Utilizar um comentário para afirmar que um programa executa um cálculo de exemplo de folha de pagamento.
 
 ```
-import java.util.Scanner; //importando o metodo Scanner
-Scanner ent = new Scanner(System.in); //declarando o scanner como objeto
 
-System.out.print("Informe dois números inteiro: "); //Print da mensagem pedindo dois números inteiros
-int b = ent.nextInt(); int c = ent.nextInt(); //recebendo os dois valores na mesma linha
+int b = 10; //declarando a varíavel A
+int c = 9; //declarando a varíavel B
 
-int a = (b * c); //criando variavel "a" e dando o valor do produto de "b" e "c"
+int a = (b*c); //Mmento em que a varivel "a" recebe o produto de "b" e "c"
 
-System.out.printf("%n %d * %d = %d %n", b, c, a); //Print dos valores
+System.out.printf("%d * %d = %d", b, c, a); //Print dos valores
+
 ```
