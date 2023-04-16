@@ -13,7 +13,7 @@ Disciplina: Programação Orientada a Objetos
 a) Exibir a mensagem “Informe um inteiro: “, deixando o cursor na mesma linha;
 
 ```
-System.out.print("Informe dois Inteiro: ");
+System.out.print("Informe um Inteiro: ");
 ```
 
 b) Atribuir o produto de variáveis b e c para a variável a;
