@@ -33,7 +33,7 @@ Disciplina: Programação Orientada a Objetos
           
           } //fim do while
           
-          System.out.printf("%nSerá necessario %d meses até chegar no monte desejado!!", meses); //Print da quantidade de meses
+          System.out.printf("%nSerá necessario %d meses para acumular o montante desejado.", meses); //Print da quantidade de meses
 
-          System.out.printf("Valor adquirido nesses %d meses: R$%.2f", meses, contagem); //Print do valor adquirido dos meses
+          System.out.printf("Valor total adquirido nesses %d meses: R$%.2f", meses, contagem); //Print do valor adquirido dos meses
 ```
