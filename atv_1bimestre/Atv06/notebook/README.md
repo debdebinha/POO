@@ -19,7 +19,7 @@ Disciplina: Programação Orientada a Objetos
           int meses = 1; //criando a variavel meses
           double contagem = 0; //criando a variavel contagem
           
-          System.out.print("Digite o valor do deposito fixo mensal: "); //Imprimindo uma pergunta do valor de deposito mensal
+          System.out.print("Digite o valor do deposito fixo mensal: "); //Print de uma pergunta do valor do deposito mensal
           depositoMensal = ent.nextDouble(); //dando o valor digitado da entrada para a variavel "depositoMensal"
           
           System.out.print("\nDigite o montante desejado: "); //Imprimindo uma pergunta do valor de monte desejado
