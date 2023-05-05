@@ -10,6 +10,8 @@ Disciplina: Programação Orientada a Objetos
 # Código:
 
 ```
+          import java.util.Scanner; //importanto o metodo Scanner da classe Java.util
+          
           Scanner ent = new Scanner(System.in); //criando o objeto para a entrada scanner
 
           double depositoMensal; //criando a variavel depositoMensal
@@ -26,7 +28,7 @@ Disciplina: Programação Orientada a Objetos
           //variavel contagem tem a função de depositar a junção dos salarios ao decorrer dos meses
           contagem = depositoMensal; //variavel contagem recebe o valor do deposito
           
-          while (contagem < montanteDesejado){ //while para quando a contagem for menor que o montante desejado
+          while (contagem < montanteDesejado) { //while para quando a contagem for menor que o montante desejado
               
               contagem = contagem + (depositoMensal * 1.05); //calculo de contagem + salario mensal
               meses = meses + 1; //calculo para continuar o while, adicionando meses + 1
@@ -36,4 +38,5 @@ Disciplina: Programação Orientada a Objetos
           System.out.printf("%nSerá necessario %d meses para acumular o montante desejado.", meses); //Print da quantidade de meses
 
           System.out.printf("Valor total adquirido nesses %d meses: R$%.2f", meses, contagem); //Print do valor adquirido dos meses
+         
 ```
