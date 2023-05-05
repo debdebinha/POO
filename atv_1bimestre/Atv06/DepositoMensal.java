@@ -1,6 +1,6 @@
 package atv_1bimestre.Atv06; //declarando o package "Atv06" dentro da pasta "atv_1bimestre"
 
-import java.util.Scanner;
+import java.util.Scanner; //Importanto o método Scanner da classe Java.util
 
 public class DepositoMensal{ //Inciando a classe principal, dando inicio ao programa
      public static void main(String [] args){ //criando o metodo principal onde o programa se inicia
