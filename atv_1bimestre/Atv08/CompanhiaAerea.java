@@ -141,10 +141,6 @@ public class CompanhiaAerea{ //criando public class Companhia Aerea
             CompraAssento();
         }
 
-        System.out.println("Todas os assentos lotados");
-        System.out.println("Programa finalizado :)");
-        System.out.println("©Copyright 2023 by Gabriel. All rights reversed.");
-
     }
 
 
